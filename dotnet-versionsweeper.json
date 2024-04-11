@@ -1,0 +1,31 @@
+{
+    "actionType": "all",
+    "ignore": [
+        "**/frameworks-library/**/*.csproj",
+        "**/whats-new-in-21/**/*.csproj",
+        "**/migrate-library/**/*.csproj",
+        "**/migrate-library-csproj/**/*.csproj",
+        "**/migrate-library-csproj-keep-existing/**/*.csproj",
+        "**/net40-library/**/*.csproj",
+        "**/net45-compat-library/**/*.csproj",
+        "**/windowsforms/matching-game/net45/**/*.csproj",
+        "**/windowsforms/matching-game/net45/**/*.vbproj",
+        "**/csharp/roslyn-sdk/Tutorials/MakeConst/MakeConst.Vsix/MakeConst.Vsix.csproj",
+        "**/wpf/WebSiteBrowser/framework/csharp/StarVoteControl.csproj",
+        "**/wpf/WebSiteBrowser/framework/csharp/WebSiteRatings.csproj",
+        "**/core/whats-new/whats-new-in-21/vb/whats-new.vbproj",
+        "**/framework/wcf/**/*.csproj",
+        "**/framework/wcf/**/*.vbproj",
+        "**/framework/windows-workflow-foundation/**/*.csproj",
+        "**/framework/windows-workflow-foundation/**/*.vbproj",
+        "**/windowsforms/MSIX-WindowsForms/WindowsFormsApp1/**/*.csproj",
+        "**/wpf/WebSiteBrowser/**/*.csproj",
+        "**/wpf/WPF-WinRT/**/*.csproj",
+        "**/core/porting/upgrade-assistant-wcf-framework/CalculatorSample/**/*.csproj",
+        "**/core/extensions/ExcelDemo/ExcelDemo.csproj",
+        "**/core/extensions/VisioDemo/VisioDemo.csproj",
+        "**/wpf/Threading/MultithreadedWindow/net48/vb/ProjectVB.vbproj",
+        "**/wpf/Threading/PrimeNumber/net48/vb/PrimeNumber.vbproj",
+        "**/wpf/Threading/Weather/net48/vb/ProjectVB.vbproj"
+    ]
+}
